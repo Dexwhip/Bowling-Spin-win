@@ -1,0 +1,5 @@
+{
+  "name": "League Bowler Spin & Win",
+  "description": "An application for bowling league administrators to collect bowler contact information and run a 'Spin to Win' contest for a Publix gift card. All data is stored locally and can be exported as a CSV file.",
+  "requestFramePermissions": []
+}
